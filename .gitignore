@@ -26,3 +26,9 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+
+.vscode/
+
+iam-role-policy
+venv/
